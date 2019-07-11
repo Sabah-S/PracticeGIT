@@ -1,0 +1,2 @@
+# PracticeGIT
+Practice GIT commands
